@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "deanslama",
+    "password": "veryStrongPassword",
+    "database": "exampleDB",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "deanslama",
+    "password": "veryStrongPassword",
+    "database": "exampleDB_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "deanslama",
+    "password": "superSecretProdPassword",
+    "database": "exampleDB_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
