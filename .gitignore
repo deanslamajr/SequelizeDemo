@@ -1,3 +1,6 @@
 # npm stuff
 node_modules
 npm-debug.log
+
+# postgres secrets
+config/config.json
